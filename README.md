@@ -1,4 +1,4 @@
-# Joooonny
+# Joooonny aka JJ
 
 Developer page for iOS and Android apps.
 
@@ -8,7 +8,7 @@ Developer page for iOS and Android apps.
 
 ## Support
 
-Email: cla.alessandro01+support@gmail.com
+Email: jj.developer.apps@gmail.com
 
 ## Privacy
 
